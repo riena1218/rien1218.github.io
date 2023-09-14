@@ -1,0 +1,39 @@
+#nav { 
+    width:100px;
+    height:200px;
+    background-color: darkorange;
+    float:left
+}
+
+#banner {
+    width:800px;
+    height:300px;
+    background-color:cadetblue;
+    float:left
+    clear:both;
+}
+
+#wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#content {
+    width:600px;
+    background-color:gainsboro;
+    float:left
+}
+
+#info {
+    width:100px;
+    height:200px;
+    background-color: blueviolet;
+    float:left;
+}
+
+#footer {
+    width:800px;
+    height:50px;
+    background-color: bisque;
+    clear:both;
+}
